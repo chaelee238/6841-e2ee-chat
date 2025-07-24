@@ -1,0 +1,14 @@
+{
+  "Alice": {
+    "id": "Alice",
+    "salt": "21f8aa969e019959f7e9ea9eb2ad8d5c",
+    "hashedPassword": "445f1e7d7f556cc1c3688db72f4667e82269eed64856eeffdf1bfc0d33f703e81a25507f8ba08356086b96c5fa2c58c8117a17a53bc890efbe98dc1ce3c4ea6f",
+    "publicKey": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAjpSkySDI4E6DOLNu1q8batM0LRgHddMtsIMkoOVsNSFRJZqpbBsz\nhA5VQalEF678/PRu0+Vg3X8MmxFBaU6/r26iePyTnUjaSwi04TwNWzglXjkyHDNq\nqZ2itw2RuYJhIexNPhGav3JlJHWH6rKyLr1Bl65/C0dJmV8fUpDf0vpb+9k97T9l\nQzrWCDj/ISX6XuyPAGJI3YxO+FNNht+eUZZh6zAlzxrZY9oskfq9yI49YwderhVk\nzd3UM/Y5jkPL5od4Hf9FCfKbPNN7Xde/SQpQ7x3rnyPrP8aRD4DimpzGH06ppqwX\nurMpyJlnJN/Fgeg1J7+E3GuA84Buo8/ZYwIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+  },
+  "Bob": {
+    "id": "Bob",
+    "salt": "87f42635b76a2c86e233cd6d40ca8aaf",
+    "hashedPassword": "531b12ae3ee7b2db68a3ad171a375f1068fbe154b47f55d1062cc29ee27153899154d8c41e6f192f283b22d49a946bfbfcb629550961992f677c622bc03e2018",
+    "publicKey": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAsri+FqLPvaL5O0WAm6GgEbGD8WQ5WIRxC4oxw92nonGKTaj27CBV\nyKDzfva5hbX0v1Axrli+42ggK6TcfsKHllAhO6nXVbgMMYknxFl7kTzpn4DCLwEk\nN4omu+IcobjdhpfTcePXiLy4XWVP0giPaAL3Sb9phhyHTngmyIYxeO8ylaev6xko\nkbyKZ4+H7y3dAhsBhPSro5uGOMk1bMkeRyts5W/UFppL77LIQhsMhcbvOJORLQpH\ncTSJ8fNxHdrkmgessmBY7SGttikFt5BuZFbGZkLIK8C62k4YVKUAs2+ZnO5SoyDS\nnQtQb1i2w1LEmiaGHaaUSOoCJfqzPqSqKQIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+  }
+}

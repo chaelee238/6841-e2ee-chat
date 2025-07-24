@@ -1,0 +1,24 @@
+{
+  "name": "e2ee-chat",
+  "version": "1.0.0",
+  "description": "A CLI-based end-to-end encrypted chat app using RSA and AES.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "start-server": "node server/server.js",
+    "client": "node client/client.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "encryption",
+    "chat",
+    "e2ee",
+    "cli",
+    "nodejs",
+    "rsa",
+    "aes"
+  ],
+  "author": "Kayla Lee",
+  "license": "ISC",
+  "devDependencies": {}
+}
